@@ -1,0 +1,24 @@
+the irons in HD used are edited by Accensus (Ace). Used Hideous Destructor's version of those as a base.
+the irons for all addons and the sprites are sourced from the addon and edited by underqualified gunman
+
+
+zm66 scope ace
+liberator/boss scope underqualified gunman
+
+
+
+changes
+liberator/boss scope now uses reticle based off of back 4 blood's 4x reticle
+the reticle available from the rret command are now mostly based off of rainbow six siege's reticles
+
+rret 1/0 unchanged works as a red dot variant unchanged
+rret 2 cyber truck reticle (R6:S)
+rret 3 is based off the hl2 mp7 reticle
+rret 4 is the spetznaz reflex (R6:S)
+rret 5 is based on the 1.5x reticle (R6:S)
+rret 6 nato holo (R6:S)
+rret 7 nato reflex (R6:S)
+
+Irons
+made variants of most pepper grinder guns with irons as well as some PG specific scopes.
+Bangers and Mash had a couple of scope variants with support added
