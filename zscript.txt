@@ -1,0 +1,1 @@
+// litterally only exists because gzdoom won't load it in .zip unless it has a zscript file in it. thanks to phantombeta on the hdest discord for this fix.
